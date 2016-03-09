@@ -1,0 +1,17 @@
+{
+    "name": "connectiontoqmlsignal.liu-xiao-guo",
+    "description": "description of connectiontoqmlsignal",
+    "architecture": "@CLICK_ARCH@",
+    "title": "connectiontoqmlsignal",
+    "hooks": {
+        "connectiontoqmlsignal": {
+            "apparmor": "connectiontoqmlsignal/connectiontoqmlsignal.apparmor",
+            "desktop":  "connectiontoqmlsignal/connectiontoqmlsignal.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

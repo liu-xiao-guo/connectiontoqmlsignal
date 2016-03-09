@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=connectiontoqmlsignal
+Exec=connectiontoqmlsignal
+Icon=connectiontoqmlsignal/connectiontoqmlsignal.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
